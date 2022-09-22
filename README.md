@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarisha Das</h1>
 
----
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sarisha.das) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarisha-das-4371b7191) 
 
 <!--
